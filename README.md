@@ -5,7 +5,7 @@ Automated sending of mail using python
 
 Using yagmail client in python
 
-1.Register your mail and password for one time(it will store in keyring-secure storage in python)
-   > yagmail.register('yourmail', 'yourpassword')  
+#Install Required packages through pip
 
-2.import yagmail and use unlimited automails.
+Register your mail and password for one time(it will store in keyring-secure storage in python)
+   > yagmail.register('yourmail', 'yourpassword')  
